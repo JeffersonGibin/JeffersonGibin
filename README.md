@@ -11,6 +11,12 @@ I'm a Software Engineer in search of knowledge every day
 > — P. Karlton
 
 
+### My Projects Published
+
+- [NPM Package: thread-tasker](https://www.npmjs.com/package/thread-tasker)
+- [NPM Package: express-rate-limiter-core](https://www.npmjs.com/package/express-rate-limiter-core)
+
+
 ### You can find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-gibin/)
