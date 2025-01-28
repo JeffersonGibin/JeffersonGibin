@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer driven by a daily quest for knowledge.  
+I'm a Software Engineer in search of knowledge every day
 - 💻 Passionate about software development.  
 - 🏗️ Enthusiast of Software Architecture.  
 - 🌐 Enthusiast of Solution Architecture.  
