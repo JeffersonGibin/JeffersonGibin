@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-I am an engineer who is always looking to learn new technologies. Passionate about software development and an enthusiast of Software and Solution Architecture.
+I'm a Software Engineer driven by a daily quest for knowledge.  
+- 💻 Passionate about software development.  
+- 🏗️ Enthusiast of Software Architecture.  
+- 🌐 Enthusiast of Solution Architecture.  
 
-> "Two hard things in computing: cache invalidation and naming things. — P. Karlton"
+---
+
+> "Two hard things in computing: cache invalidation and naming things."  
+> — P. Karlton
 
 
 ### You can find me:
