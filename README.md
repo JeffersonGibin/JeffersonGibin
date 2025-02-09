@@ -1,5 +1,7 @@
 ## Hi there
 
+![Profile views](https://komarev.com/ghpvc/?username=JeffersonGibin&abbreviated=true)
+
 I'm a Software Engineer in search of knowledge every day
 - 💻 Passionate about software development.  
 - 🏗️ Enthusiast of Software Architecture.  
