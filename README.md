@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I'm a Software Engineer in search of knowledge every day
 - 💻 Passionate about software development.  
