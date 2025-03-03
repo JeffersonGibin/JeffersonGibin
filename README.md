@@ -1,6 +1,6 @@
 ## Hi there
 
-![Profile views](https://komarev.com/ghpvc/?username=JeffersonGibin&abbreviated=true)
+![Profile views](https://komarev.com/ghpvc/?username=JeffersonGibin&style=for-the-badge&color=green)
 
 I'm a Software Engineer in search of knowledge every day
 - 💻 Passionate about software development.  
