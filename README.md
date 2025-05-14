@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=JeffersonGibin&style=for-the-badge&color=green)
 
-I'm a Software Engineer in search of knowledge every day
+I'm a Software Engineer in search of knowledge every single day.
 - 💻 Passionate about software development.  
 - 🏗️ Enthusiast of Software Architecture.  
 - 🌐 Enthusiast of Solution Architecture.  
